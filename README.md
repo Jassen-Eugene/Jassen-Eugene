@@ -1,4 +1,4 @@
-<h1 align="center">[Jassen EUGENE] </h1>
+<h1 align="center"> Jassen EUGENE </h1>
 <h3 align="center">Data Scientist - Ingénieur en Intelligence Artificielle </h3>
 
 ---
