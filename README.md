@@ -4,9 +4,9 @@
 ---
 
  **Profil**  
-Ingénieur IA avec une solide expérience en **Computer Vision**, **Natural Language Processing (NLP)** et **apprentissage profond**, j’ai conçu des systèmes intelligents combinant traitement d’images, analyse de documents, et compréhension du langage naturel pour des applications industrielles et publiques.
+Ingénieur IA avec une solide expérience en **Computer Vision**, **Natural Language Processing (NLP)** et **apprentissage profond**, j’ai conçu des systèmes intelligents combinant traitement d’images, analyse de documents, et compréhension du langage naturel.
 
-Je m’appuie sur une approche rigoureuse mêlant modélisation, expérimentation, optimisation, et intégration dans des environnements réels.
+Je m’appuie sur une approche rigoureuse mêlant modélisation et optimisation.
 
 ---
 
@@ -16,7 +16,7 @@ Je m’appuie sur une approche rigoureuse mêlant modélisation, expérimentatio
 -  Traitement automatique de documents structurés & non structurés (OCR, NLP)
 -  Assistants IA hybrides via RAG (Retrieval-Augmented Generation)
 -  Prévision comportementale (churn, scoring) avec pipelines ML avancés
--  Intégration de modèles IA dans des API, interfaces web ou environnements embarqués
+-  Intégration de modèles IA dans des API, interfaces web
 
 ---
 
